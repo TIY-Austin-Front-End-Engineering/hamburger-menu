@@ -1,0 +1,22 @@
+{
+    "name": "hamburger-menu",
+    "version": "0.0.1",
+    "title": "Hamburger Menu",
+    "description": "Create a mobile style hamburger menu using CSS and only two elements.",
+    "difficultyModes": [
+        "Normal",
+        "Hard"
+    ],
+    "keywords": [
+        "CSS",
+        "HTML",
+        "JavaScript",
+        "pseudo-elements"
+    ],
+    "supplementalFiles": [
+        "hard.gif",
+        "hard.mov",
+        "hard.mp4",
+        "normal.png"
+    ]
+}
