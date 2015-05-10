@@ -56,7 +56,7 @@ Create a new repository and a dist directory. Inside of the dist directory creat
 </html>
 ```
 
-**Without modifying the HTML** replicate the following hamburger menu. Hint: you will need to use the `::before` and `::after` pseudo-elements.
+**Without modifying the HTML** replicate the following hamburger menu. Hint: you will need to use the `::before` and `::after` pseudo-elements. The three bars in the hamburger menu should be 24px wide and 3px tall with 4px of space in between each bar.
 
 ![Normal Mode](/normal.png)
             
